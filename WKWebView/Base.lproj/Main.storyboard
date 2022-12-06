@@ -70,6 +70,7 @@
                         <outlet property="backButton" destination="UL9-A3-j8H" id="JcY-Mu-OMT"/>
                         <outlet property="forwardButton" destination="dKA-21-ucW" id="O8E-5N-lnK"/>
                         <outlet property="searchBar" destination="acJ-yx-U0W" id="lg5-Ba-Ezh"/>
+                        <outlet property="webView" destination="A52-zM-4O8" id="O7u-gc-z4O"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
